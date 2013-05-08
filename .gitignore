@@ -1,0 +1,11 @@
+target
+*.swp
+*.iml
+*.ipr
+*.iws
+.idea
+.settings
+.project
+.gradle
+build
+
